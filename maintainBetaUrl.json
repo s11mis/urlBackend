@@ -1,0 +1,5 @@
+[
+  {"platform": "ios", "url": "http://localhost/s11MaintainBackend/"},
+  {"platform": "huawei", "url": "http://localhost/s11MaintainBackend/"},
+  {"platform": "android", "url": "http://localhost/s11MaintainBackend/"}
+]
