@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "url": "https://soneonegroup.com/s11OrderFormIOS2/"},
-  {"platform": "huawei", "url": "https://soneonegroup.com/s11OrderFormHuawei2/"},
-  {"platform": "android", "url": "https://soneonegroup.com/s11OrderFormGoogle2/"}
+  {"platform": "ios", "url": "https://soneonefbgroup.com/backend/s11OrderFormIOS2/"},
+  {"platform": "huawei", "url": "https://soneonefbgroup.com/backend/s11OrderFormHuawei2/"},
+  {"platform": "android", "url": "https://soneonefbgroup.com/backend/s11OrderFormGoogle2/"}
 ]
