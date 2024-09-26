@@ -1,0 +1,5 @@
+[
+  {"platform": "ios", "url": "http://localhost/s11OrderFormBackend/"},
+  {"platform": "huawei", "url": "http://10.0.2.2:80/s11OrderFormBackend/"},
+  {"platform": "android", "url": "http://10.0.2.2:80/s11OrderFormBackend/"}
+]
