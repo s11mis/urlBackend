@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "url": "https://soneonefbgroup.com/backend/maintain/s11MaintainIOS_1.0.9/"},
-  {"platform": "huawei", "url": "https://soneonefbgroup.com/backend/maintain/s11MaintainHuawei_1.0.9/"},
-  {"platform": "android", "url": "https://soneonefbgroup.com/backend/maintain/s11MaintainGoogle_1.0.9/"}
+  {"platform": "ios", "url": "https://soneonegroup.com/tempServer/maintain/s11MaintainIOS_1.0.9/"},
+  {"platform": "huawei", "url": "https://soneonegroup.com/tempServer/maintain/s11MaintainIOS_1.0.9/"},
+  {"platform": "android", "url": "https://soneonegroup.com/tempServer/maintain/s11MaintainIOS_1.0.9/"}
 ]
