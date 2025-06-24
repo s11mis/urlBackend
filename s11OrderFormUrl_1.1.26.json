@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "url": "https://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"},
-  {"platform": "huawei", "url": "https://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"},
-  {"platform": "android", "url": "https://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"}
+  {"platform": "ios", "url": "http://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"},
+  {"platform": "huawei", "url": "http://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"},
+  {"platform": "android", "url": "http://175.140.37.145/backend/orderForm/s11OrderFormIOS_1.1.26/"}
 ]
