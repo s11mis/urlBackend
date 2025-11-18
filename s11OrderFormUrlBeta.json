@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/"},
-  {"platform": "huawei", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/"},
-  {"platform": "android", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/"}
+  {"platform": "ios", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/node/"},
+  {"platform": "huawei", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/node/"},
+  {"platform": "android", "urlPhpBase": "http://192.168.0.198:80/s11OrderFormBackend/","urlNodeBase":"http://192.168.0.198:8443/node/"}
 ]
