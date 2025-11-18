@@ -1,5 +1,5 @@
 [
-  {"platform": "ios", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/node/"},
-  {"platform": "huawei", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/node/"},
-  {"platform": "android", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/node/"}
+  {"platform": "ios", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/"},
+  {"platform": "huawei", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/"},
+  {"platform": "android", "urlPhpBase": "https://soneonefbgroup.com/backend/orderForm/s11OrderFormIOS_1.1.35/","urlNodeBase":"https://www.soneonefbgroup.com/"}
 ]
