@@ -1,4 +1,5 @@
 {
   "url": "https://soneonefbgroup.com/cashier-node-test/",
-  "nodeJS": "https://soneonefbgroup.com"
+  "nodeJS": "https://soneonefbgroup.com",
+  "socketPath": "/cashier-node-test/socket.io/"
 }
