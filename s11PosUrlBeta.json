@@ -1,5 +1,5 @@
 {
-  "url": "http://192.168.0.144:8890/node/",
-  "nodeJS":"http://192.168.0.144:8890",
+  "url": "http://192.168.0.144:7030/node/",
+  "nodeJS":"http://192.168.0.144:7030",
   "socketPath": "/socket.io/"
 }
